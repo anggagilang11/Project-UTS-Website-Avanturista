@@ -1,0 +1,250 @@
+[26-Oct-2021 16:28:09 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:28:09 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:28:09 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, int given in /home/avanturi/public_html/class/wisata.php on line 15
+[26-Oct-2021 16:28:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/class/wisata.php on line 16
+[26-Oct-2021 16:28:09 Asia/Jakarta] PHP Notice:  Undefined variable: hasil in /home/avanturi/public_html/class/wisata.php on line 19
+[26-Oct-2021 16:28:09 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/avanturi/public_html/index.php on line 118
+[26-Oct-2021 16:28:16 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:28:16 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:28:16 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, int given in /home/avanturi/public_html/class/paket.php on line 15
+[26-Oct-2021 16:28:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/class/paket.php on line 16
+[26-Oct-2021 16:28:16 Asia/Jakarta] PHP Notice:  Undefined variable: hasil in /home/avanturi/public_html/class/paket.php on line 19
+[26-Oct-2021 16:28:16 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/avanturi/public_html/paket.php on line 130
+[26-Oct-2021 16:28:22 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:28:22 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:28:22 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, int given in /home/avanturi/public_html/class/paket.php on line 15
+[26-Oct-2021 16:28:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/class/paket.php on line 16
+[26-Oct-2021 16:28:22 Asia/Jakarta] PHP Notice:  Undefined variable: hasil in /home/avanturi/public_html/class/paket.php on line 19
+[26-Oct-2021 16:28:22 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/avanturi/public_html/paket.php on line 130
+[26-Oct-2021 16:28:30 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:28:43 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:28:43 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:28:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, int given in /home/avanturi/public_html/class/user.php on line 16
+[26-Oct-2021 16:28:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/class/user.php on line 17
+[26-Oct-2021 16:28:43 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/class/user.php on line 18
+[26-Oct-2021 16:28:43 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:31:55 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:31:55 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:31:55 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, int given in /home/avanturi/public_html/class/user.php on line 16
+[26-Oct-2021 16:31:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/class/user.php on line 17
+[26-Oct-2021 16:31:55 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/class/user.php on line 18
+[26-Oct-2021 16:31:55 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:32:07 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:32:07 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:32:07 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, int given in /home/avanturi/public_html/class/wisata.php on line 15
+[26-Oct-2021 16:32:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/class/wisata.php on line 16
+[26-Oct-2021 16:32:07 Asia/Jakarta] PHP Notice:  Undefined variable: hasil in /home/avanturi/public_html/class/wisata.php on line 19
+[26-Oct-2021 16:32:07 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/avanturi/public_html/index.php on line 118
+[26-Oct-2021 16:32:26 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:32:26 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:32:26 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, int given in /home/avanturi/public_html/class/penginapan.php on line 15
+[26-Oct-2021 16:32:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/class/penginapan.php on line 16
+[26-Oct-2021 16:32:26 Asia/Jakarta] PHP Notice:  Undefined variable: hasil in /home/avanturi/public_html/class/penginapan.php on line 19
+[26-Oct-2021 16:32:26 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/avanturi/public_html/hotel.php on line 118
+[26-Oct-2021 16:33:34 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:33:34 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:33:34 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, int given in /home/avanturi/public_html/class/wisata.php on line 15
+[26-Oct-2021 16:33:34 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/class/wisata.php on line 16
+[26-Oct-2021 16:33:34 Asia/Jakarta] PHP Notice:  Undefined variable: hasil in /home/avanturi/public_html/class/wisata.php on line 19
+[26-Oct-2021 16:33:34 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/avanturi/public_html/index.php on line 118
+[26-Oct-2021 16:33:37 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:33:37 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:33:37 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, int given in /home/avanturi/public_html/class/wisata.php on line 15
+[26-Oct-2021 16:33:37 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/class/wisata.php on line 16
+[26-Oct-2021 16:33:37 Asia/Jakarta] PHP Notice:  Undefined variable: hasil in /home/avanturi/public_html/class/wisata.php on line 19
+[26-Oct-2021 16:33:37 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/avanturi/public_html/index.php on line 118
+[26-Oct-2021 16:33:39 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:33:39 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:33:39 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, int given in /home/avanturi/public_html/class/penginapan.php on line 15
+[26-Oct-2021 16:33:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/class/penginapan.php on line 16
+[26-Oct-2021 16:33:39 Asia/Jakarta] PHP Notice:  Undefined variable: hasil in /home/avanturi/public_html/class/penginapan.php on line 19
+[26-Oct-2021 16:33:39 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/avanturi/public_html/hotel.php on line 118
+[26-Oct-2021 16:33:42 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:33:42 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:33:42 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, int given in /home/avanturi/public_html/class/paket.php on line 15
+[26-Oct-2021 16:33:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/class/paket.php on line 16
+[26-Oct-2021 16:33:42 Asia/Jakarta] PHP Notice:  Undefined variable: hasil in /home/avanturi/public_html/class/paket.php on line 19
+[26-Oct-2021 16:33:42 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/avanturi/public_html/paket.php on line 130
+[26-Oct-2021 16:33:51 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:34:00 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:34:00 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:34:00 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, int given in /home/avanturi/public_html/class/user.php on line 16
+[26-Oct-2021 16:34:00 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/class/user.php on line 17
+[26-Oct-2021 16:34:00 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/class/user.php on line 18
+[26-Oct-2021 16:34:01 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:34:33 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:34:33 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:34:33 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, int given in /home/avanturi/public_html/class/wisata.php on line 15
+[26-Oct-2021 16:34:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/class/wisata.php on line 16
+[26-Oct-2021 16:34:33 Asia/Jakarta] PHP Notice:  Undefined variable: hasil in /home/avanturi/public_html/class/wisata.php on line 19
+[26-Oct-2021 16:34:33 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/avanturi/public_html/index.php on line 118
+[26-Oct-2021 16:34:50 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:34:50 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:34:50 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, int given in /home/avanturi/public_html/class/wisata.php on line 15
+[26-Oct-2021 16:34:50 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/class/wisata.php on line 16
+[26-Oct-2021 16:34:50 Asia/Jakarta] PHP Notice:  Undefined variable: hasil in /home/avanturi/public_html/class/wisata.php on line 19
+[26-Oct-2021 16:34:50 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/avanturi/public_html/index.php on line 118
+[26-Oct-2021 16:35:02 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:35:02 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:35:02 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, int given in /home/avanturi/public_html/class/paket.php on line 15
+[26-Oct-2021 16:35:02 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/class/paket.php on line 16
+[26-Oct-2021 16:35:02 Asia/Jakarta] PHP Notice:  Undefined variable: hasil in /home/avanturi/public_html/class/paket.php on line 19
+[26-Oct-2021 16:35:02 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/avanturi/public_html/paket.php on line 130
+[26-Oct-2021 16:35:05 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:35:05 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:35:05 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, int given in /home/avanturi/public_html/class/penginapan.php on line 15
+[26-Oct-2021 16:35:05 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/class/penginapan.php on line 16
+[26-Oct-2021 16:35:05 Asia/Jakarta] PHP Notice:  Undefined variable: hasil in /home/avanturi/public_html/class/penginapan.php on line 19
+[26-Oct-2021 16:35:05 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/avanturi/public_html/hotel.php on line 118
+[26-Oct-2021 16:36:18 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:36:18 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:36:18 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, int given in /home/avanturi/public_html/class/wisata.php on line 15
+[26-Oct-2021 16:36:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/class/wisata.php on line 16
+[26-Oct-2021 16:36:18 Asia/Jakarta] PHP Notice:  Undefined variable: hasil in /home/avanturi/public_html/class/wisata.php on line 19
+[26-Oct-2021 16:36:18 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/avanturi/public_html/index.php on line 118
+[26-Oct-2021 16:36:35 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:36:35 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:36:35 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, int given in /home/avanturi/public_html/class/wisata.php on line 15
+[26-Oct-2021 16:36:35 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/class/wisata.php on line 16
+[26-Oct-2021 16:36:35 Asia/Jakarta] PHP Notice:  Undefined variable: hasil in /home/avanturi/public_html/class/wisata.php on line 19
+[26-Oct-2021 16:36:35 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/avanturi/public_html/index.php on line 118
+[26-Oct-2021 16:36:39 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:36:39 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/class/koneksi.php on line 17
+[26-Oct-2021 16:36:39 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, int given in /home/avanturi/public_html/class/paket.php on line 15
+[26-Oct-2021 16:36:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/class/paket.php on line 16
+[26-Oct-2021 16:36:39 Asia/Jakarta] PHP Notice:  Undefined variable: hasil in /home/avanturi/public_html/class/paket.php on line 19
+[26-Oct-2021 16:36:39 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/avanturi/public_html/paket.php on line 130
+[26-Oct-2021 16:40:35 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/orderlist.php on line 117
+[26-Oct-2021 16:40:35 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/avanturi/public_html/orderlist.php on line 119
+[26-Oct-2021 16:40:35 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/avanturi/public_html/orderlist.php on line 122
+[26-Oct-2021 17:14:37 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/orderlist.php on line 117
+[26-Oct-2021 17:14:37 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/avanturi/public_html/orderlist.php on line 119
+[26-Oct-2021 17:14:37 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/avanturi/public_html/orderlist.php on line 122
+[26-Oct-2021 17:14:42 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/orderlist.php on line 117
+[26-Oct-2021 17:14:42 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/avanturi/public_html/orderlist.php on line 119
+[26-Oct-2021 17:14:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/avanturi/public_html/orderlist.php on line 122
+[26-Oct-2021 17:30:03 Asia/Jakarta] PHP Notice:  Undefined index: id_user in /home/avanturi/public_html/order.php on line 153
+[26-Oct-2021 17:30:03 Asia/Jakarta] PHP Notice:  Undefined index: nama_user in /home/avanturi/public_html/order.php on line 154
+[26-Oct-2021 17:30:53 Asia/Jakarta] PHP Notice:  Undefined variable: kon in /home/avanturi/public_html/profil.php on line 141
+[26-Oct-2021 17:30:53 Asia/Jakarta] PHP Notice:  Undefined variable: id_user in /home/avanturi/public_html/profil.php on line 142
+[26-Oct-2021 17:30:53 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/avanturi/public_html/profil.php on line 142
+[26-Oct-2021 17:30:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/profil.php on line 144
+[26-Oct-2021 17:30:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 150
+[26-Oct-2021 17:30:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 161
+[26-Oct-2021 17:30:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 162
+[26-Oct-2021 17:30:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 170
+[26-Oct-2021 17:30:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 178
+[26-Oct-2021 17:30:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 186
+[26-Oct-2021 17:30:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 194
+[26-Oct-2021 17:30:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 203
+[26-Oct-2021 17:30:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 211
+[26-Oct-2021 17:30:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 219
+[26-Oct-2021 17:30:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 227
+[26-Oct-2021 17:30:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 236
+[26-Oct-2021 17:30:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 240
+[26-Oct-2021 17:30:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 251
+[26-Oct-2021 17:31:20 Asia/Jakarta] PHP Notice:  Undefined variable: kon in /home/avanturi/public_html/profil.php on line 141
+[26-Oct-2021 17:31:20 Asia/Jakarta] PHP Notice:  Undefined variable: id_user in /home/avanturi/public_html/profil.php on line 142
+[26-Oct-2021 17:31:20 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/avanturi/public_html/profil.php on line 142
+[26-Oct-2021 17:31:20 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/profil.php on line 144
+[26-Oct-2021 17:31:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 150
+[26-Oct-2021 17:31:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 161
+[26-Oct-2021 17:31:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 162
+[26-Oct-2021 17:31:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 170
+[26-Oct-2021 17:31:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 178
+[26-Oct-2021 17:31:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 186
+[26-Oct-2021 17:31:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 194
+[26-Oct-2021 17:31:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 203
+[26-Oct-2021 17:31:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 211
+[26-Oct-2021 17:31:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 219
+[26-Oct-2021 17:31:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 227
+[26-Oct-2021 17:31:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 236
+[26-Oct-2021 17:31:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 240
+[26-Oct-2021 17:31:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 251
+[26-Oct-2021 17:31:52 Asia/Jakarta] PHP Notice:  Undefined variable: kon in /home/avanturi/public_html/profil.php on line 141
+[26-Oct-2021 17:31:52 Asia/Jakarta] PHP Notice:  Undefined variable: id_user in /home/avanturi/public_html/profil.php on line 142
+[26-Oct-2021 17:31:52 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/avanturi/public_html/profil.php on line 142
+[26-Oct-2021 17:31:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/profil.php on line 144
+[26-Oct-2021 17:31:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 150
+[26-Oct-2021 17:31:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 161
+[26-Oct-2021 17:31:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 162
+[26-Oct-2021 17:31:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 170
+[26-Oct-2021 17:31:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 178
+[26-Oct-2021 17:31:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 186
+[26-Oct-2021 17:31:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 194
+[26-Oct-2021 17:31:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 203
+[26-Oct-2021 17:31:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 211
+[26-Oct-2021 17:31:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 219
+[26-Oct-2021 17:31:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 227
+[26-Oct-2021 17:31:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 236
+[26-Oct-2021 17:31:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 240
+[26-Oct-2021 17:31:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 251
+[26-Oct-2021 17:37:38 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/orderlist.php on line 117
+[26-Oct-2021 17:37:38 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/avanturi/public_html/orderlist.php on line 119
+[26-Oct-2021 17:37:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/avanturi/public_html/orderlist.php on line 122
+[26-Oct-2021 17:38:07 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/orderlist.php on line 117
+[26-Oct-2021 17:38:07 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/avanturi/public_html/orderlist.php on line 119
+[26-Oct-2021 17:38:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/avanturi/public_html/orderlist.php on line 122
+[26-Oct-2021 17:39:30 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/orderlist.php on line 117
+[26-Oct-2021 17:39:30 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/avanturi/public_html/orderlist.php on line 119
+[26-Oct-2021 17:39:30 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/avanturi/public_html/orderlist.php on line 122
+[26-Oct-2021 17:39:41 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/orderlist.php on line 117
+[26-Oct-2021 17:39:41 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/avanturi/public_html/orderlist.php on line 119
+[26-Oct-2021 17:39:41 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/avanturi/public_html/orderlist.php on line 122
+[26-Oct-2021 17:41:41 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/avanturi/public_html/orderlist.php on line 117
+[26-Oct-2021 17:41:41 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/avanturi/public_html/orderlist.php on line 119
+[26-Oct-2021 17:41:41 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/avanturi/public_html/orderlist.php on line 122
+[26-Oct-2021 19:28:19 Asia/Jakarta] PHP Notice:  Undefined variable: kon in /home/avanturi/public_html/profil.php on line 141
+[26-Oct-2021 19:28:19 Asia/Jakarta] PHP Notice:  Undefined variable: id_user in /home/avanturi/public_html/profil.php on line 142
+[26-Oct-2021 19:28:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/avanturi/public_html/profil.php on line 142
+[26-Oct-2021 19:28:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/profil.php on line 144
+[26-Oct-2021 19:28:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 150
+[26-Oct-2021 19:28:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 161
+[26-Oct-2021 19:28:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 162
+[26-Oct-2021 19:28:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 170
+[26-Oct-2021 19:28:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 178
+[26-Oct-2021 19:28:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 186
+[26-Oct-2021 19:28:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 194
+[26-Oct-2021 19:28:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 203
+[26-Oct-2021 19:28:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 211
+[26-Oct-2021 19:28:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 219
+[26-Oct-2021 19:28:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 227
+[26-Oct-2021 19:28:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 236
+[26-Oct-2021 19:28:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 240
+[26-Oct-2021 19:28:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 251
+[26-Oct-2021 19:32:50 Asia/Jakarta] PHP Notice:  Undefined variable: kon in /home/avanturi/public_html/profil.php on line 141
+[26-Oct-2021 19:32:50 Asia/Jakarta] PHP Notice:  Undefined variable: id_user in /home/avanturi/public_html/profil.php on line 142
+[26-Oct-2021 19:32:50 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/avanturi/public_html/profil.php on line 142
+[26-Oct-2021 19:32:50 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/profil.php on line 144
+[26-Oct-2021 19:32:50 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 150
+[26-Oct-2021 19:32:50 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 161
+[26-Oct-2021 19:32:50 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 162
+[26-Oct-2021 19:32:50 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 170
+[26-Oct-2021 19:32:50 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 178
+[26-Oct-2021 19:32:50 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 186
+[26-Oct-2021 19:32:50 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 194
+[26-Oct-2021 19:32:50 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 203
+[26-Oct-2021 19:32:50 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 211
+[26-Oct-2021 19:32:50 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 219
+[26-Oct-2021 19:32:50 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 227
+[26-Oct-2021 19:32:50 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 236
+[26-Oct-2021 19:32:50 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 240
+[26-Oct-2021 19:32:50 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 251
+[26-Oct-2021 20:20:19 Asia/Jakarta] PHP Notice:  Undefined variable: kon in /home/avanturi/public_html/profil.php on line 141
+[26-Oct-2021 20:20:19 Asia/Jakarta] PHP Notice:  Undefined variable: id_user in /home/avanturi/public_html/profil.php on line 142
+[26-Oct-2021 20:20:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/avanturi/public_html/profil.php on line 142
+[26-Oct-2021 20:20:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avanturi/public_html/profil.php on line 144
+[26-Oct-2021 20:20:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 150
+[26-Oct-2021 20:20:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 161
+[26-Oct-2021 20:20:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 162
+[26-Oct-2021 20:20:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 170
+[26-Oct-2021 20:20:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 178
+[26-Oct-2021 20:20:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 186
+[26-Oct-2021 20:20:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 194
+[26-Oct-2021 20:20:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 203
+[26-Oct-2021 20:20:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 211
+[26-Oct-2021 20:20:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 219
+[26-Oct-2021 20:20:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 227
+[26-Oct-2021 20:20:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 236
+[26-Oct-2021 20:20:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 240
+[26-Oct-2021 20:20:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/avanturi/public_html/profil.php on line 251
