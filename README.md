@@ -4,4 +4,4 @@ Avanturista adalah website tentang traveling untuk memudahkan pengguna dalam ber
 Aplikasi website ini dibuat oleh:
 - Yosafat Angga Gilang P. / 190710300
 - Rufina Truly Aning Christy / 190710135
-- Giordano Pramodana Ladeka / 190710091"# Project-UTS-Website-Avanturista" 
+- Giordano Pramodana Ladeka / 190710091
